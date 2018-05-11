@@ -1,0 +1,22 @@
+{
+  "name": "marcelo",
+  "version": "1.0.0",
+  "description": "Primeiro teste",
+  "main": "hoodie.js",
+  "scripts": {
+    "test": "c"
+    "test": "mocha"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Marcelo O. Pavone",
+  "license": "ISC",
+  "devDependencies": {
+    "install": "^0.8.7",
+    "mocha": "^3.2.0",
+    "nightmare": "^2.10.0",
+    "npm": "^4.4.1"
+  }
+
+}
